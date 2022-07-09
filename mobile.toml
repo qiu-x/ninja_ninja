@@ -1,0 +1,5 @@
+[app]
+name = "ninja-ninja"
+stylized-name = "Ninja Ninja"
+domain = "none"
+template-pack = "wgpu"
